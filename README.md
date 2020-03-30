@@ -50,7 +50,7 @@ The objecct to look in.
 Type: `string`  
 Default: `none`
 
-The key to seearch for.
+The key to search for.
 
 ## License
 
