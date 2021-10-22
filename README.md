@@ -1,4 +1,4 @@
-# has-util [![Build Status](https://travis-ci.com/jonkemp/has-util.svg?branch=master)](https://travis-ci.com/jonkemp/has-util)
+# has-util ![Build Status](https://github.com/jonkemp/has-util/actions/workflows/main.yml/badge.svg?branch=master)
 
 > Check if an object has a given key.
 
