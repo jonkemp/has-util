@@ -16,7 +16,7 @@ $ npm install has-util
 Or [unpkg](https://unpkg.com/has-util/)
 
 ```
-<script src="https://unpkg.com/has-util@1.0.0/umd/index.js" />
+<script src="https://unpkg.com/has-util@1.0.2/umd/index.js" />
 ```
 
 Check out the unit tests on [CodePen](https://codepen.io/jonkemp/full/vYObWNL).
